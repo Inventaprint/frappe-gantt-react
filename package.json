@@ -26,7 +26,7 @@
     "project management"
   ],
   "dependencies": {
-    "frappe-gantt": "github:Inventaprint/gantt#master",
+    "frappe-gantt-mfg": "github:Inventaprint/gantt#master",
     "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
